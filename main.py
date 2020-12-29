@@ -4,7 +4,7 @@ root = Tk()
 root.title("Blackjack Move Calculator")
 root.geometry('600x300')
 
-# Player and dealer cards chosen from Radiobutton
+# Player and dealer cards chosen from Radiobutton.
 pc1 = IntVar()
 pc2 = IntVar()
 dc1 = IntVar()
